@@ -1,0 +1,21 @@
+# Dataset & Training Runs
+data/
+runs/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Downloaded base weights (keep models/best.pt)
+yolov8n.pt
+yolo11n.pt
